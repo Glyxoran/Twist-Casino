@@ -1,5 +1,7 @@
+### Topics: Hack, twist-hack, twist-cheat, script, casino-games-bot, casino-hack, twist, twist-casino, twist-tool, twist-game, twist-software, coins
 <!-- EN -->
 ## EN
+
 
 <div align="center">
 <a href="z"><img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/></a>
